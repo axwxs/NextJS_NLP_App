@@ -3,7 +3,7 @@
 
 Just using this repo to share a link to my full-stack NLP web app: 
 
-## :point_right:&emsp; **[Available Here](https://ai-helper-v1.vercel.app)** &emsp; 
+## &emsp;&emsp; **[Available Here](https://ai-helper-v1.vercel.app)** &emsp;&emsp; 
 
 This project was built primarily using NextJS/FastAPI. 
 

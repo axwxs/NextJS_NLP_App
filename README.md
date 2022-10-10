@@ -1,4 +1,4 @@
-## NextJS-NLP App
+# NextJS-NLP App
 
 Just using this repo to share a link to my full-stack NLP web app: 
 
@@ -6,4 +6,4 @@ Just using this repo to share a link to my full-stack NLP web app:
 
 This project was built primarily using NextJS/FastAPI. 
 
-The backend was deployed to the cloud using AWS (Lambda, APIGateway, and CDK) while the frontend GUI is hosted on Vercel. 
+The backend was deployed to the cloud using AWS Lambda/APIGateway/CDK. The frontend GUI is hosted on Vercel. 
